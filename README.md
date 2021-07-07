@@ -5,7 +5,7 @@
 ---
 <h2>👩🏻‍🏫 About me </h2>
 
-👩🏻‍💻 I am Currently pursuing B.E. in information technology [ Third Year ]. 
+👩🏻‍💻 I am a Final Year Student of B.E. in information technology. 
 
 💻 I began my programming journey by exploring c, c++, java and ended up finding my love and passion for learning python. 
 
