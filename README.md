@@ -15,7 +15,7 @@
 
 🤖 I am keen to explore the fields of Data Science, Machine Learning too.
 
-📥 Feel Free to Contact me / Connect with me through - <a href="mailto:nidz251100@gmail.com">nidz251100@gmail.com</a> or <a href="https://www.linkedin.com/in/nidhishetty-25/">Linkedin</a>
+📥 Feel Free to Contact me / Connect with me through - <a href="mailto:nidhishetty251@gmail.com">nidhishetty251@gmail.com</a> or <a href="https://www.linkedin.com/in/nidhishetty-25/">Linkedin</a>
 
 
 ---
