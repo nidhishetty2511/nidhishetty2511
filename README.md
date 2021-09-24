@@ -31,7 +31,7 @@
 <h2>🌐 Find me Around the web </h2>
 <a href = "https://www.linkedin.com/in/nidhishetty-25/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="20" height="20"/> - nidhishetty-25</a>
 
-<a href = "mailto:nidz251100@gmail.com">📫 - nidz251100@gmail.com</a>
+<a href = "mailto:nidhishetty251@gmail.com">📫 - nidhishetty251@gmail.com</a>
 
 ---
 
