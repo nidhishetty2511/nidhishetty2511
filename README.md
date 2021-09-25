@@ -13,9 +13,9 @@
 
 ✍🏻 Besides coding, I love to write blogs on technologies in my leisure time.
 
-🔍 I'm actively looking for industry / internship opportunities in the field of IT where I can be continually challenged to rack my brain.
+🔍 I'm actively looking for Full Time SDE roles and internship opportunities in the field of IT.
 
-🤖 I am keen to explore the fields of Data Science, Machine Learning too.
+🤖 I am keen to explore the fields of Data Science, Machine Learning as well.
 
 
 ---
